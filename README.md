@@ -1,8 +1,8 @@
 <div align="center">
 
 <br /><br /><br /><br />
-  
-![OWL APP PREVIEW(5)](https://github.com/user-attachments/assets/deb81d07-8641-4eb4-934e-aa9050608194)
+
+![OWL APP PREVIEW](https://github.com/user-attachments/assets/19df1fdb-0bd5-49c9-81d3-8092cb43ed2e)
 
 <br /><br /><br /><br />
 
